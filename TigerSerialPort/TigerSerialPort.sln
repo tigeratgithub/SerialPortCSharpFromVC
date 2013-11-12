@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TigerSerialPort", "TigerSerialPort\TigerSerialPort.csproj", "{47C9EB5E-1581-443B-9031-07D763A93FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTigerSerialPort", "..\TestTigerSerialPort\TestTigerSerialPort\TestTigerSerialPort.csproj", "{B6327F89-3631-45E0-A620-AFB3DFBA07F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C9EB5E-1581-443B-9031-07D763A93FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C9EB5E-1581-443B-9031-07D763A93FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C9EB5E-1581-443B-9031-07D763A93FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C9EB5E-1581-443B-9031-07D763A93FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6327F89-3631-45E0-A620-AFB3DFBA07F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6327F89-3631-45E0-A620-AFB3DFBA07F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6327F89-3631-45E0-A620-AFB3DFBA07F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6327F89-3631-45E0-A620-AFB3DFBA07F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
